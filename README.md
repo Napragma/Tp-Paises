@@ -57,6 +57,6 @@ Para iniciar la aplicación, se deben seguir las siguientes indicaciones técnic
 - Cóceres Natalia
 
 ## Enlaces Obligatorios
-- **Video Demostrativo:** [LINK DE VIDEO]
-- **Documentación Técnica (PDF):** [PDF]
+- **Video Demostrativo:** (https://youtu.be/pIgvdc6t3Xk)
+- **Documentación Técnica (PDF):** 
 
